@@ -111,6 +111,7 @@ src/
 - **Casos de uso:** Menús de acciones, formularios rápidos, información adicional
 
 - <img width="1207" height="995" alt="image" src="https://github.com/user-attachments/assets/06fc03e4-7020-4f76-9fe7-7472d8f48b14" />
+<img width="1919" height="1007" alt="image" src="https://github.com/user-attachments/assets/a1826f88-d32a-4f2f-aae0-021a17ff5624" />
 
 
 ### 2. **Chips** (`/chips`) 🏷️
@@ -141,6 +142,7 @@ src/
   - **Responsive layout** - Se adaptan al contenedor
 - **Casos de uso:** Perfiles de usuario, productos, noticias, dashboards
 - <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d7f7dc3a-c675-434c-bda2-89d41c7d9b7d" />
+<img width="1919" height="986" alt="image" src="https://github.com/user-attachments/assets/4ace6a98-2714-4366-8fac-45894fbfb525" />
 
 
 ### 4. **Autocomplete** (`/autocomplete`) 🔍
@@ -157,6 +159,7 @@ src/
 - **Casos de uso:** Búsquedas, selección de países, autocompletado de emails
 
  <img width="1918" height="1079" alt="image" src="https://github.com/user-attachments/assets/24aaf0de-a599-4eb6-b622-8be465321f31" />
+<img width="1919" height="1025" alt="image" src="https://github.com/user-attachments/assets/11108237-d491-4c30-ad59-cc6f024c1b11" />
 
 ### 5. **Button** (`/button`) 🔘
 **Ruta:** `src/app/ButtonOverviewExample/button-overview-example`
@@ -173,6 +176,7 @@ src/
   - **Diferentes colores** - primary, accent, warn
 - **Casos de uso:** Acciones principales, navegación, formularios, toolbars
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/7a03b11d-d555-4b17-adf9-2cbc60bf7c7a" />
+<img width="1434" height="983" alt="image" src="https://github.com/user-attachments/assets/74d2bbe2-4366-46b1-a124-d6934e8e8276" />
 
 ### 6. **Toolbar** (`/toolbar`) 🛠️
 **Ruta:** `src/app/Toolbar/tool-bar`
@@ -187,6 +191,7 @@ src/
   - **Sticky positioning** para mantener fija en scroll
 - **Casos de uso:** Headers de aplicación, navegación principal, barras de acciones
 - <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/0e10a46c-8953-4200-837d-7645fb288860" />
+<img width="1919" height="983" alt="image" src="https://github.com/user-attachments/assets/6dc9248f-44c4-4323-b883-0669fe380eb7" />
 
 
 ### 7. **Tabla** (`/tabla`) 📊
@@ -203,6 +208,7 @@ src/
   - **Responsive behavior** en dispositivos móviles
 - **Casos de uso:** Listados de datos, reportes, administración de contenido
 - <img width="1919" height="1038" alt="image" src="https://github.com/user-attachments/assets/217a0ba7-77ef-400b-950b-6f707b3ed381" />
+<img width="1919" height="1005" alt="image" src="https://github.com/user-attachments/assets/6f300364-5eaa-43d2-b4bc-f33139d7a080" />
 
 
 ### 8. **Check** (`/check`) ✅
@@ -218,6 +224,7 @@ src/
   - **Validaciones personalizadas** y mensajes de error
 - **Casos de uso:** Formularios, configuraciones, filtros, términos y condiciones
 <img width="1919" height="963" alt="image" src="https://github.com/user-attachments/assets/75da1146-197e-42a4-bdf2-50d145e08aaa" />
+<img width="1919" height="974" alt="image" src="https://github.com/user-attachments/assets/310a8ae4-1d92-478a-b99a-fb8ee04ed35a" />
 
 ### 9. **Progress** (`/progress`) ⏳
 **Ruta:** `src/app/progress/progress`
@@ -232,6 +239,7 @@ src/
   - **Animaciones fluidas** para transiciones suaves
 - **Casos de uso:** Cargas de archivos, procesamiento de datos, navegación entre páginas
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/142c6452-3147-44b4-91b3-afbc27aacda6" />
+<img width="1919" height="992" alt="image" src="https://github.com/user-attachments/assets/d1e22ac7-9cfd-46f2-b2e7-c44b08ad4a30" />
 
 ### 10. **Divider** (`/divider`) ➖
 **Ruta:** `src/app/divider/divider`
@@ -246,6 +254,7 @@ src/
   - **Integración flexible** en listas, menús y layouts
 - **Casos de uso:** Separación de secciones, organización visual, menús
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/7c76f4ab-729e-47c8-86d7-ea91586a5409" />
+<img width="1917" height="945" alt="image" src="https://github.com/user-attachments/assets/36f0e898-4f96-4f6a-a68f-618fa79a99e9" />
 
 ### 11. **Panel** (`/panel`) 📋
 **Ruta:** `src/app/panel/panel`
@@ -261,6 +270,7 @@ src/
   - **Eventos de apertura/cierre** para lógica personalizada
 - **Casos de uso:** FAQs, configuraciones avanzadas, información detallada
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/0b43b88a-ed08-4b42-a673-ea2a49e2622a" />
+<img width="1919" height="996" alt="image" src="https://github.com/user-attachments/assets/26c647ef-3a5a-4f51-8362-38e8d56234e9" />
 
 ### 12. **Calendario** (`/calendario`) 📅
 **Ruta:** `src/app/calendario/calendario`
@@ -276,6 +286,8 @@ src/
   - **Integration con formularios** reactivos
 - **Casos de uso:** Reservas, eventos, filtros temporales, formularios
 <img width="1900" height="985" alt="image" src="https://github.com/user-attachments/assets/ef2cb71e-6df5-4943-9f52-f65de81da21f" />
+<img width="1919" height="1013" alt="image" src="https://github.com/user-attachments/assets/57115121-db4c-4b53-ab89-f4e5bb54e2d9" />
+
 
 ### 13. **Slider** (`/slider`) 🎚️
 **Ruta:** `src/app/slider/slider`
@@ -291,6 +303,8 @@ src/
   - **Estados deshabilitados** para valores no editables
 - **Casos de uso:** Filtros de precio, volumen, configuraciones numéricas
 <img width="1919" height="996" alt="image" src="https://github.com/user-attachments/assets/1ae296d7-91e4-4b5d-91f4-8ae3acde3f48" />
+<img width="1626" height="955" alt="image" src="https://github.com/user-attachments/assets/727e612d-5380-48d9-a507-90b6287f6a81" />
+
 
 ### 14. **Menu** (`/menu`) 🍔
 **Ruta:** `src/app/menu/menu`
@@ -306,6 +320,8 @@ src/
   - **Positioning inteligente** que evita salirse de pantalla
 - **Casos de uso:** Menús de aplicación, acciones contextuales, navegación
 - <img width="1919" height="869" alt="image" src="https://github.com/user-attachments/assets/ca740366-e2bf-4fd9-b4b4-cb42d6ec82c0" />
+<img width="1919" height="1004" alt="image" src="https://github.com/user-attachments/assets/54321da3-ff97-4243-94da-24e60b31863e" />
+
 
 
 ### 15. **Tree** (`/tree`) 🌳
@@ -322,14 +338,17 @@ src/
   - **Filtrado de árbol** para búsqueda en estructura
 - **Casos de uso:** Navegadores de archivos, organigramas, categorías anidadas
 ## 📸 Capturas de Pantalla
-EJERCICIO 15
+EJERCICIO 15 
 <img width="1269" height="994" alt="image" src="https://github.com/user-attachments/assets/7331015d-2bc5-4c63-aebd-f911bf131ef2" />
-<img width="1285" height="989" alt="image" src="https://github.com/user-attachments/assets/83cb97cd-7dd4-4a82-8fbf-9ddaedf0a215" />
+<img width="1919" height="987" alt="image" src="https://github.com/user-attachments/assets/f1b161df-987e-4459-889c-1a65c15e8c26" />
+
 
 
 ### Vista Principal con Menú Lateral
-<img width="1682" height="1006" alt="image" src="https://github.com/user-attachments/assets/d9b47f3e-2e7d-49d6-8201-f4984a19e0fe" />
-<img width="1919" height="1015" alt="image" src="https://github.com/user-attachments/assets/bbd50af5-f00a-4b79-b932-667988c775e9" />
+<img width="1659" height="981" alt="image" src="https://github.com/user-attachments/assets/a4439fc3-268c-4aff-b173-cabef67ae97c" />
+<img width="1915" height="1019" alt="image" src="https://github.com/user-attachments/assets/22698062-3469-46c7-8234-7132eac0b0db" />
+
+
 
 ```
 
