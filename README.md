@@ -346,17 +346,8 @@ EJERCICIO 15
 
 ### Vista Principal con Menú Lateral
 <img width="1659" height="981" alt="image" src="https://github.com/user-attachments/assets/a4439fc3-268c-4aff-b173-cabef67ae97c" />
-<img width="1915" height="1019" alt="image" src="https://github.com/user-attachments/assets/22698062-3469-46c7-8234-7132eac0b0db" />
+<img width="1919" height="1016" alt="image" src="https://github.com/user-attachments/assets/64e0bab6-a8c8-41d9-b09e-461fd0ee3647" />
 
-
-
-```
-
-### Componentes Individuales
-```
-<img width="240" height="831" alt="image" src="https://github.com/user-attachments/assets/13fbf278-ba8f-41b7-ba3a-4e0498cfd397" />
-
-```
 
 ### Menú Lateral (Sidenav)
 - **Sidenav persistente:** Siempre visible en modo `side` para acceso rápido
@@ -367,37 +358,8 @@ EJERCICIO 15
 - **Navegación fluida:** Transiciones suaves entre componentes
 - **RouterLinkActive:** Detección automática del componente actual
 
-### Estilos del Menú
-```css
-/* Configuración del sidenav personalizado */
-mat-sidenav {
-  width: 250px;
-  background-color: #130e0e;
-  border-right: 1px solid #141212;
-}
-
-mat-nav-list a {
-  padding: 12px 16px;
-  border-radius: 4px;
-  transition: background-color 0.3s ease;
-}
-
-mat-nav-list a.active {
-  background-color: rgba(63, 81, 181, 0.2);
-  color: #3f51b5;
-  font-weight: 500;
-}
-```
 
 ## 🎨 Personalización
-
-### Tema
-La aplicación utiliza el tema **magenta-violet** de Angular Material. Para cambiarlo:
-
-```css
-/* En angular.json o styles.css */
-@import '@angular/material/prebuilt-themes/indigo-pink.css';
-```
 
 ### Estilos Globales
 Los estilos principales se encuentran en:
@@ -406,7 +368,7 @@ Los estilos principales se encuentran en:
 
 ## 🔧 Tecnologías Utilizadas
 
-- **Angular 17+** - Framework principal
+- **Angular 20+** - Framework principal
 - **Angular Material** - Biblioteca de componentes UI
 - **Angular CDK** - Component Development Kit
 - **TypeScript** - Lenguaje de programación
@@ -427,35 +389,36 @@ Los estilos principales se encuentran en:
 3. **Interactividad:** Prueba todas las características de cada componente
 4. **Código fuente:** Revisa el código en las carpetas correspondientes
 
-## 📱 Características Responsivas
-
-La aplicación está optimizada para diferentes tamaños de pantalla con el menú lateral adaptativo:
-
-- **Desktop (>768px):** 
-  - Sidenav siempre visible (250px de ancho)
-  - Modo `side` con contenido desplazado
-  - Hover effects y transiciones completas
-
-- **Tablet (768px):** 
-  - Sidenav adaptable (200px de ancho)
-  - Padding reducido para mejor aprovechamiento
-  - Fuentes ajustadas para legibilidad
-
-- **Mobile (<768px):** 
-  - Sidenav con ancho reducido pero funcional
-  - Elementos del menú compactados
-  - Touch-friendly para navegación táctil
 
 ### Diseño del Menú Responsivo
-```css
-@media (max-width: 768px) {
-  mat-sidenav {
-    width: 200px;
-    padding: 15px;
-  }
-  
-  mat-nav-list a {
-    padding: 10px 12px;
-    font-size: 14px;
-  }
+/* Estilos generales */
+body { 
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  background-color: #f5f5f5;
+}
+
+mat-toolbar {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.spacer {
+  flex: 1 1 auto;
+}
+
+main {
+  padding: 20px;
+}
+
+/* Efecto hover para botones del menú */
+button[mat-menu-item]:hover {
+  background-color: rgba(255, 255, 255, 0.1) !important;
+}
+
+/* Estilo para la ruta activa */
+.active-link {
+  background-color: rgba(255, 255, 255, 0.2);
+  font-weight: bold;
 }
