@@ -1,4 +1,3 @@
-// app.routes.ts
 import { Routes } from '@angular/router';
 import { MatAutocomplete } from './mat-autocomplete/mat-autocomplete/mat-autocomplete';
 import { Cardse } from "./cards/cardse/cardse";

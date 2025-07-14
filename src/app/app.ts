@@ -17,7 +17,7 @@ import { Tree } from "./tree/tree";
 import { Chips } from "./chips/chips";
 import { Sheet } from "./sheet/sheet";
 
-// Importaciones de Angular Material que te faltan
+// Importaciones de Angular Material
 import { MatSidenavModule } from '@angular/material/sidenav';
 import { MatToolbarModule } from '@angular/material/toolbar';
 import { MatListModule } from '@angular/material/list';
@@ -53,8 +53,8 @@ import { RouterModule } from '@angular/router';
     Sheet
   ],
   templateUrl: './app.html',
-  styleUrl: './app.css'
+  styleUrls: ['./app.css']
 })
 export class App {
-  protected title = 'Angular2';
+  title = 'Angular2';
 }
