@@ -1,4 +1,16 @@
-# Angular Material Components Showcase
+INSTITUTO TECNOLÓGICO DE OAXACA
+
+Departamento de Ingeniería en Sistemas Computacionales
+
+Materia:PROGRAMACION WEB
+
+“Componentes con Angular Material Enlace de repositorio de Github y/o GitHub Pages”
+
+Profesor: Martinez Nieto Adelina Equipo: MORALES OSORIO RUBI ESMERALDA
+
+Grupo: VSI Oaxaca de juarez a 07 de julio de 2025.
+
+# Angular Material Components 
 
 Una aplicación Angular que muestra diferentes componentes de Angular Material con ejemplos funcionales, navegación lateral interactiva y un menú lateral diseñado específicamente para facilitar la exploración de cada componente.
 
@@ -98,6 +110,9 @@ src/
   - **Overlay backdrop** para enfocar la atención del usuario
 - **Casos de uso:** Menús de acciones, formularios rápidos, información adicional
 
+- <img width="1207" height="995" alt="image" src="https://github.com/user-attachments/assets/06fc03e4-7020-4f76-9fe7-7472d8f48b14" />
+
+
 ### 2. **Chips** (`/chips`) 🏷️
 **Ruta:** `src/app/chips/chips`
 - **Propósito:** Muestra chips (etiquetas) para representar entidades pequeñas como contactos, categorías o filtros
@@ -110,6 +125,8 @@ src/
   - **Colores personalizables** para diferentes tipos de contenido
   - **Input de chips** para crear nuevos elementos
 - **Casos de uso:** Tags, filtros, selección múltiple, contactos
+- <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b67abccf-f3c2-4a72-a896-34336cdecb92" />
+
 
 ### 3. **Cards** (`/cards`) 🃏
 **Ruta:** `src/app/cards/cardse`
@@ -123,6 +140,8 @@ src/
   - **Contenido flexible** - Texto, listas, imágenes, botones
   - **Responsive layout** - Se adaptan al contenedor
 - **Casos de uso:** Perfiles de usuario, productos, noticias, dashboards
+- <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d7f7dc3a-c675-434c-bda2-89d41c7d9b7d" />
+
 
 ### 4. **Autocomplete** (`/autocomplete`) 🔍
 **Ruta:** `src/app/mat-autocomplete/mat-autocomplete`
@@ -136,6 +155,8 @@ src/
   - **Opciones con iconos** para mejor identificación visual
   - **Loading states** para búsquedas asíncronas
 - **Casos de uso:** Búsquedas, selección de países, autocompletado de emails
+
+ <img width="1918" height="1079" alt="image" src="https://github.com/user-attachments/assets/24aaf0de-a599-4eb6-b622-8be465321f31" />
 
 ### 5. **Button** (`/button`) 🔘
 **Ruta:** `src/app/ButtonOverviewExample/button-overview-example`
@@ -151,6 +172,7 @@ src/
   - **Icon buttons** solo con iconos
   - **Diferentes colores** - primary, accent, warn
 - **Casos de uso:** Acciones principales, navegación, formularios, toolbars
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/7a03b11d-d555-4b17-adf9-2cbc60bf7c7a" />
 
 ### 6. **Toolbar** (`/toolbar`) 🛠️
 **Ruta:** `src/app/Toolbar/tool-bar`
@@ -164,6 +186,8 @@ src/
   - **Colores temáticos** - primary, accent, warn
   - **Sticky positioning** para mantener fija en scroll
 - **Casos de uso:** Headers de aplicación, navegación principal, barras de acciones
+- <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/0e10a46c-8953-4200-837d-7645fb288860" />
+
 
 ### 7. **Tabla** (`/tabla`) 📊
 **Ruta:** `src/app/Tabla/tabla`
@@ -178,6 +202,8 @@ src/
   - **Sticky headers** que se mantienen visibles al hacer scroll
   - **Responsive behavior** en dispositivos móviles
 - **Casos de uso:** Listados de datos, reportes, administración de contenido
+- <img width="1919" height="1038" alt="image" src="https://github.com/user-attachments/assets/217a0ba7-77ef-400b-950b-6f707b3ed381" />
+
 
 ### 8. **Check** (`/check`) ✅
 **Ruta:** `src/app/Check/check`
@@ -191,6 +217,7 @@ src/
   - **Integración con formularios** reactivos y template-driven
   - **Validaciones personalizadas** y mensajes de error
 - **Casos de uso:** Formularios, configuraciones, filtros, términos y condiciones
+<img width="1919" height="963" alt="image" src="https://github.com/user-attachments/assets/75da1146-197e-42a4-bdf2-50d145e08aaa" />
 
 ### 9. **Progress** (`/progress`) ⏳
 **Ruta:** `src/app/progress/progress`
@@ -204,6 +231,7 @@ src/
   - **Valores dinámicos** que se actualizan en tiempo real
   - **Animaciones fluidas** para transiciones suaves
 - **Casos de uso:** Cargas de archivos, procesamiento de datos, navegación entre páginas
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/142c6452-3147-44b4-91b3-afbc27aacda6" />
 
 ### 10. **Divider** (`/divider`) ➖
 **Ruta:** `src/app/divider/divider`
@@ -217,6 +245,7 @@ src/
   - **Espaciado configurable** para control de márgenes
   - **Integración flexible** en listas, menús y layouts
 - **Casos de uso:** Separación de secciones, organización visual, menús
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/7c76f4ab-729e-47c8-86d7-ea91586a5409" />
 
 ### 11. **Panel** (`/panel`) 📋
 **Ruta:** `src/app/panel/panel`
@@ -231,6 +260,7 @@ src/
   - **Contenido dinámico** que se carga al expandir
   - **Eventos de apertura/cierre** para lógica personalizada
 - **Casos de uso:** FAQs, configuraciones avanzadas, información detallada
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/0b43b88a-ed08-4b42-a673-ea2a49e2622a" />
 
 ### 12. **Calendario** (`/calendario`) 📅
 **Ruta:** `src/app/calendario/calendario`
@@ -245,6 +275,7 @@ src/
   - **Input keyboard friendly** para entrada manual
   - **Integration con formularios** reactivos
 - **Casos de uso:** Reservas, eventos, filtros temporales, formularios
+<img width="1900" height="985" alt="image" src="https://github.com/user-attachments/assets/ef2cb71e-6df5-4943-9f52-f65de81da21f" />
 
 ### 13. **Slider** (`/slider`) 🎚️
 **Ruta:** `src/app/slider/slider`
@@ -259,6 +290,7 @@ src/
   - **Orientación vertical** y horizontal
   - **Estados deshabilitados** para valores no editables
 - **Casos de uso:** Filtros de precio, volumen, configuraciones numéricas
+<img width="1919" height="996" alt="image" src="https://github.com/user-attachments/assets/1ae296d7-91e4-4b5d-91f4-8ae3acde3f48" />
 
 ### 14. **Menu** (`/menu`) 🍔
 **Ruta:** `src/app/menu/menu`
@@ -273,6 +305,8 @@ src/
   - **Estados deshabilitados** para opciones no disponibles
   - **Positioning inteligente** que evita salirse de pantalla
 - **Casos de uso:** Menús de aplicación, acciones contextuales, navegación
+- <img width="1919" height="869" alt="image" src="https://github.com/user-attachments/assets/ca740366-e2bf-4fd9-b4b4-cb42d6ec82c0" />
+
 
 ### 15. **Tree** (`/tree`) 🌳
 **Ruta:** `src/app/tree/tree`
@@ -292,8 +326,6 @@ EJERCICIO 15
 <img width="1269" height="994" alt="image" src="https://github.com/user-attachments/assets/7331015d-2bc5-4c63-aebd-f911bf131ef2" />
 <img width="1285" height="989" alt="image" src="https://github.com/user-attachments/assets/83cb97cd-7dd4-4a82-8fbf-9ddaedf0a215" />
 
-
-EJERICICIO 2
 
 ### Vista Principal con Menú Lateral
 <img width="1682" height="1006" alt="image" src="https://github.com/user-attachments/assets/d9b47f3e-2e7d-49d6-8201-f4984a19e0fe" />
